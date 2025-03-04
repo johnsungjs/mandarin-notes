@@ -1,0 +1,1 @@
+oke jadi ini catatan ya
