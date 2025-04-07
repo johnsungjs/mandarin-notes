@@ -47,7 +47,7 @@ zuo = 0
 44. C -> renshi
 45. A -> fang jian
 46. v
-47. v (x) (loh kok ini salah)
+47. v (x) (jam 7 ini setelah dapet kamar)
 48. x -> ta bu xi huan mao  
 49. v
 50. x -> dianying piao mai dao le
@@ -59,7 +59,7 @@ zuo = 0
 56. B 
 57. A (cb bahas) (E) (ini gamungkin weh bentar lagi angkat telepon terus malah dibales gue belajar banyak dari lu, harusnya ya ini bahas tentang paket yang harusnya diterima nanti sore nanti dia mau di telepon)
 58. C 
-59. E (D) (ini ada orang sakit, dia mau cari waktu buat jenguk, harusnya dijawab jem 6 gimana?)
+59. E (D) (ini ada orang sakit, dia mau cari waktu buat jenguk, harusnya dijawab jem 6 gimana?)(kuncinya zhao shijian)
 60. D (A) (ini ceritanya dia udah belajar banyakk dari lawan bicaranya, lawan bicaranya berharap jawabannya dapat membantu)
 
 zuo = 6
