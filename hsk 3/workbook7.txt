@@ -1,0 +1,70 @@
+1 A
+2 C
+3 B
+4 (E)
+5 F
+
+6 false
+7 true
+8 false
+9 true
+10 false
+
+11 A (mau naik taxi)
+12 A (sakit kepala)
+13 A (B, ditanya suka apa)
+14 c (B)
+15 b (C, ban tian itu 12 jam, tapi dalam konteks ini maksudnya udah lama)
+
+16 B
+17 B
+18 A
+19 A
+20 C
+
+21 B
+22 A
+23 F
+24 C 
+25 D
+
+26 F
+27 A
+28 B
+29 C
+30 D
+
+31 A
+32 B
+33 B
+以前中国人结婚的时候，男女都不认识。丈夫会在结婚迎接妻子那天第一次贝到妻子，妻子也第一次见到丈夫。
+In the past, when Chinese people got married, the man and woman did not know each other. The husband would see his wife for the first time on the wedding day, and the wife would also see her husband for the first time.
+34 C
+35 B
+
+36 我们唱了两个小时歌
+37 你对什么感兴趣？
+38 以前我在银行工作了两年
+39 弟弟看电视了三个钟头了
+（弟弟看了三个钟头电视）
+40 昨天我听音乐了十几分钟
+（昨天我听了十几分钟音乐）
+
+verb + le
+objek taro belakang ya
+
+41 感
+42 银
+43 结
+44 迎
+45 久
+
+46 近，迟
+47 同，司
+48 以，认
+49 接，楼
+50 刻，到
+
+1. 结婚，欢迎。 同事，突然，感兴趣
+2. 接，差，刻，迟到，快了
+

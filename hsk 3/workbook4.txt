@@ -1,0 +1,106 @@
+1 C
+2 F
+3 E (B)
+4 B (E)
+5 A
+
+6 v 
+7 v
+8 v
+9 x
+10 v
+
+11 B （A）
+12 C
+13 A （C）KENAPA GAK A？KARENA MEREKA NONTON DOANG
+14 C （B）
+15 A （C）（DITANY CEWEKNYA BKN COWONYA）
+
+16 A
+17 A
+18 C
+19 C
+20 
+
+a ni zenme mei chi wo gei ni mai de dan gao ne?
+b ni zenme dao jia jiu zuo zhe kan dian shi, ye bu bang wo zuofan?
+c ni juede xiao li zen me yang?
+d zenme wan le, ni qu na er?
+f wo zuotian mei you ren zhen fuxi
+
+21 laoshi de wenti ni zen me dou bu huida {F}
+22 ta you cong ming  you reqing, dajia dou xihuan ta {C}
+23 tai tian le, ni chi ba. {A}
+24 wo you lei you e, ni rang wo xiuxi yi xia ba {B}
+25 you dian er e, wo qu chao shi mai dian er de {D}
+
+26 jintian wanshang wo wan dian er hui lai, gen peng you qu kan ziqiu {bisai}
+27 didi hui le jia jiu fuxi, xuexi feichang {nuli}
+28 jia li lai {ke ren} le, ni hui lai de shihou qu chaoshi mai dian er shui guo.
+29 zheshi women pashan de {zhao pian}, ni kan kan.
+zhe ge zhan zai ni fang bian de ren shi shei?
+30 ni juede jintian de kaoshi zenme  yang?
+hen duo wenti wo dou bu {huida}.
+
+31 zhe zhang zhaopian shi wo jiejie 11 sui na nian zhao de，na shi ta zheng zai du wu nian ji, zhao pian shang de jie jie you hei you shou. kan kan xian zai de jie jie, you gao you piao liang, da jia dou xi huan ta.
+
+jiejie: {A. xianzai you gao you piao liang}
+
+32 san yue shi wu hao zao shang, ta zheng yao qi shang ban de shihou, kan jian nan peng you na zhe xian hua zhan zai men kou. ta yi xia xiang dao le, jin tian shi ta de sheng ri.
+
+{B nan peng ou yao song ta hua}
+
+33 ke ren you wen ti de shihou, ta cong shi re qing hui da. ke ren xi huan zhe yang de fu wu yuan, jing li ye xi huan ci zhe yang de fu wu yuan.
+
+{B da jia dou xi huan zhe ge fu wu yuan}
+
+34 wang laoshi you ge er shi dui de nv er. xian zai du da xue san nian ji, you congming you piao linag, xue xi ye hen nu li. 
+
+wang laoshi de nv er: {A hen nian jing}
+
+35 ta xing gao, dan shi chang de bu gao, zhi you yi mi liu. peng you men dou shuo: "wo men jiu jiao ni xiao gao ba!" ta xiao zhe hui da: "ke yi, da jia dou zen me jiao wo".
+
+ta: {C xi huan xiao gao zhe ge ming zi}
+
+36 他的女儿非常聪明
+37 这家饭馆的服务员都很热情
+38 你去哪家超市买蛋糕
+39 他总是站着吃饭
+40 你去回答客人的问题一下
+
+41 小明，快回家吧！你家来客人了。
+42 周老师的儿子今年上小血三年级。
+43 他工作很认真，经理很喜欢他。
+44 你看，这是我年经时的照片，漂亮吗？
+45 那个拿着书站在门口的就是我们的老师。
+
+46 今天晚上电视里有北京和上海的足球比赛。
+47 我有一个中国女朋友，她又聪明又漂亮。
+48 他考试考的很好，因为他学习很努力。
+49 你饿了吗？我去超市给你买点儿蛋糕吧。
+50 老师问了四个问题，他一个也不会回答。
+
+REVIEW
+1
+小红又聪明又热情，也很努力，总是笑着回答老师的问题，大家都很喜欢她。你看，那些拿着鲜花站在门口的都是来送她等的。
+
+Xiǎo hóng yòu cōngmíng yòu rèqíng, yě hěn nǔlì, zǒng shì xiàozhe huídá lǎoshī de wèntí, dàjiā dōu hěn xǐhuān tā. Nǐ kàn, nàxiē názhe xiānhuā zhàn zài ménkǒu de dōu shì lái sòng tā děng de.
+
+2
+李晓美在饭馆里工作，她又漂亮又年轻，工作又认真又热情，他总是笑着跟客人说话。
+Lǐxiǎoměi zài fànguǎn lǐ gōngzuò, tā yòu piàoliang yòu niánqīng, gōngzuò yòu rènzhēn yòu rèqíng, tā zǒng shì xiàozhe gēn kèrén shuōhuà.
+
+gen ju zhe duan hua, ke yi zhi dao
+
+
+
+REVIEW [REVISI]
+1
+小红又聪明又（热情），也很（努力），总是笑着（回答）老师的问题，大家都很喜欢她。你看，那些（站着）在门口的都是来送她（鲜花）的。
+
+Xiǎo hóng yòu cōngmíng yòu (rèqíng), yě hěn (nǔlì), zǒng shì xiàozhe (huídá) lǎoshī de wèntí, dàjiā dōu hěn xǐhuān tā. Nǐ kàn, nàxiē (zhànzhe) zài ménkǒu de dōu shì lái sòng tā (xiānhuā) de.
+
+2
+季小美在饭馆里工作，她（又）漂亮又（年轻）， 工作又（认真）又热情。她（总是）笑着跟（客人）说话。
+Lîxiǎoměi zài fànguǎn lǐ gōngzuò, tā (yòu) piàoliang yòu (niánqīng), gōngzuò yòu (rènzhēn) yòu rèqíng. Tā (zǒng shì) xiàozhe gēn (kèrén) shuōhuà.
+

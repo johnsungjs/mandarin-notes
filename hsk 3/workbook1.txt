@@ -1,0 +1,157 @@
+workbook bab 1
+1 F bu gaoxing ...
+2 A banjia
+3 E ni men dasuan chi shenme
+4 B zhetian de mianbao
+5 C zhe shi nar... che ...
+
+6 TRUE | ta bu xihuan zhege dianying
+7 FALSE | ta yi dianer ye bu zhaoji 
+8 FALSE (fuxi) | ta kao shi kao de hao
+9 TRUE | ta hai mei xiang hao qu nar lvyou
+10 FALSE (yi ge jidan you mei you) | jia li zhe you hen duo jidan
+
+x11 B (A)
+12 C 
+13 B
+14 B 
+15 C 
+
+16 B 
+17 C 
+18 A 
+19 C 
+20 A 
+
+a. bu shi, wo yizhi zai zhe jia yiyuan gongzuo.
+家 -》ini kata satuan
+bukan, saya sering bekerja di rumah sakit ini. 
+
+b. duibuqi, zhou laoshi xianzai bu zai.
+maaf, laoshi zhou sekarang tidak disini.
+
+c. jintian xuexiao li yi ge ren dou mei you, da jia dou qu na er le?
+hari ini di dalam sekolah tidak ada orang, semua orang pada pergi kemana? 
+
+d. zhoumo you shijian ma? wo dasuan qing ni chi ge fan.
+minggu ini ada waktu? aku berencana traktir kamu makan
+
+e. dangran, women xian zuo gongongqiche, ran hou huan ditie
+tentu saja, kita naik bus dulu, setelah itu transit ke subway
+
+f. keneng shi gongzuo tai lei, shengbing le.
+mungkin pekerjaannya sangat lelah, sakit.
+
+21. ni zenme le? jin tian yi dian er dong xi dou mei chi
+kamu kenapa? hari ini gak makan sedikitpun?
+- F
+
+x22. jintian shi zhoumo, ni qu xuexiao zuo shenme?
+hari ini weekend nih, kamu kamu sekolah melakukan apa?
+- B （C）
+
+23. hao a, na tian?
+oke, kapan?
+- D
+
+24. ni shi xin lai de yi sheng ma?
+kamu dokter yang baru datang ya?
+- A 
+
+25. na wo mingtian zai lai ba, xiexie.
+besok aku datang lagi deh, makasih.
+- C (B)
+
+26. zhe ji nian wo (yizhi) man gongzuo, mei shi jian qu lv you.
+beberapa tahun ini saya sering sibuk kerja, tidak ada waktu untuk jalan jalan.
+
+27. ni (ban) jia de shi hou, wo lai bang ni ba.
+waktu kamu pindah rumah, aku datang bantu kamu ya.
+
+x28. zhege (mianbao) hen bu cuo, shi ni mai de ma?
+suara ini oke juga, ini kamu yg beli?
+
+29. zhe jian xin yifu shi shenme shihou mai de?
+shang (zhoumo), wo meimei gen wo yiqi qu mai de
+baju baru ini kapan dibelinya?
+weekend lalu, aku dan adik perempuan pergi beli
+
+30. xianzai beifang hen leng, duo (dai) ji jian yifu ba. 
+wo yijing zhunbei hao le.
+sekarang di utara sangat dingin, bawa banyak baju ya.
+
+31 A 
+32 B
+33 A 
+34 C 
+35 B 
+
+x36. shangdian li ye meiyou yige mianbao.
+(shangdian li yi ge mianbao ye meiyou)
+didalam toko juga tidak ada roti
+
+37. wo hai mei xiang hao chi shenme
+saya masih belum mikir mau makan apa
+
+x38. jin nian yi dian er dou mei xia xue
+(jin nian yi dian er xue dou mei xia)
+tahun ini tidak turun salju sedikitpun
+
+x39. jintian xiawu wo ye mei he yi bei kafei
+(jin tian xiawu wo yi bei kafei ye  mei he)
+siang hari ini saya juga belum minum segelas kopi 
+
+*40. ni xi shuiguo hao le ma?
+(ni shuiguo xi hao le ma?)
+kamu sudah mencuci buah buahan kah?
+
+41 下午我一直在房间里看书。
+42 我家在学校的北边。
+43 周末我情你去跳舞，怎么样？
+44 我想跟你们一起去打篮球，可以吗？
+45 我们明天就要搬家了。
+
+mirip2
+未 末
+wei -》 nanti
+末日
+mo ri -> kiamat
+
+一般 -》 biasanya
+船
+
+46 跟，很
+47 周，同
+48 常，带
+49 直，真
+50 昨，作
+
+51 上课，上个月
+52 下雨，下个星期
+53 本书，课本
+54 周末，末后 （mo hou = finally）
+
+1 打算，找，买好，想，跟
+2 电脑游戏，一点儿，着急，复习，一点儿（作业）
+
+REVIEW
+1. xiao gang zhoumo dasuan qing xiao li chi fan, kan dian ying, he kafei. ta yi jing zhao fanguan, mai hao dian ying piao le. danshi xiao li hai mei xiang hao yao bu yao gen ta qu.
+
+小刚周末打算情小丽吃饭，看电影，喝咖啡。他已经找饭馆，买好电影票了。但是小李还没想好要不要跟他去。
+
+2. mingtian you kao shi, danshi er zi yizhi wan er dian nao youxi, yi dian er ye bu zhaoji, yin wei ta dou fuxi hao le, zuoye ye dou xie wan le.
+
+明天有考试，但是儿子一直玩儿电脑游戏，一点儿也不着急，因为他都复习好了，作业也都写完了。
+
+keywords
+1. xiao gang dasuan qing xiao li:
+- chi fan
+- kan dian ying
+- he kafei. 
+danshi xiaoli hai mei xiang hao
+
+2. er zi mingtian kaoshi
+bu zhaoji
+wan er dian nao youxi
+fuxi hao le
+zuo ye xie wan le

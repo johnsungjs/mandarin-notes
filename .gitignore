@@ -1,0 +1,6 @@
+*.pdf
+/hsk 3/*.pdf
+/hsk 2/*.pdf
+/hsk 2/tiket ujian/*.pdf
+.DS_Store
+/pdfs/*
