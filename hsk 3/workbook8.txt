@@ -40,11 +40,13 @@
 34 C
 35 B
 
-36 健康什么东西我就吃什么
+36 健康什么东西我就吃什么 (什么东西健康我就吃什么)
 37 你怎么又不满意了
-38 我想看一次再去熊猫
-39 以后离婚他很多瘦了
-40 我们上去坐电梯吧
+38 我想看一次再去熊猫 (我想再去看一次熊猫)
+39 以后离婚他很多瘦了 （他离婚以后瘦了很多）
+40 我们上去坐电梯吧 （我们坐电梯上去吧） (caranya dulu, baru ngapain)
+mau ke sekolah naik mobil 
+我们坐车去学校 （bilangnya naik mobil ke sekolah）
 
 41 安
 42 怕
@@ -57,3 +59,7 @@
 48 考，老
 49 会，层
 50 九，几
+
+xiao li zui jin da suan mai fang zi, jin tian you qu kan le kan, danshi dou bu manyi, yige meiyou dianti, bu pangbian, tige zai er shi ceng, tai gao le, ta juede wang xia kan tai hai pa le.
+
+zhou tai tai he lao tongxue wu nian mei jian mian le, tong xue juede zhou tai tai ji hu mei bian hua, danshi zhou tai tai shuo ta pang le, xianzai xiang chi shenme jiu che shenme, xiang chi duo shao jiu chi suo shao, yinwei jiankang zui zhongyao, pang shou mei guan xi.
