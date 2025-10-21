@@ -20,7 +20,7 @@ you shi ma?
 ada apa?
 
 经理生气了，他告诉我，明天8点不到，以后就别来了
-jingli shenqi le, ta gaosu wo, ming tian 8 dian bu dao, yihou jiu bie lai le
+jingli shengqi le, ta gaosu wo, ming tian 8 dian bu dao, yihou jiu bie lai le
 Manajer marah dan bilang kalau udah jam 8 belum sampai kerja mending gausah dateng.
 
 2
@@ -76,3 +76,51 @@ wo shi yige zhongxue laoshi, jiao xuesheng hua hua er. mei ci xia ke qian, wo do
 
 Saya seorang guru SMP yang mengajar siswa menggambar. Sebelum setiap kelas, saya selalu menulis di papan tulis apa saja yang perlu dibawa siswa. Namun, setiap kali mengajar, selalu ada siswa yang lupa membawa pensil, jadi saya agak kesal. Bukan karena mereka tidak membawa pensil, tetapi karena mereka tidak memiliki kebiasaan belajar yang baik.
 
+jiu & cai 
+jiu -> yg cepet, smooth
+cai -> lambat, telat
+
+jiu -> udah
+kamu jam 5 udah bangun
+
+cai -> baru ...
+kelas mulai jam 8, baru bangun jam 9
+
+wo zuo tian shi yi dian cai hui de jia
+
+
+yi ge xiao shi cai xie wan
+(konteksnya 15 menit harusnya kelar ini kelarnya sejem)
+
+wo zuo tian cai shui le qi ge xiao shi
+(biasa bobo 10 jam, ini cuman 7 jam)
+durasi itu ditaro di belakang
+
+cth:
+wo jin tian liang dian cai chi wu fan
+
+wo ba shouji fang zai zhuozi shang
+
+wo ba pingguo song gei lao shi le
+
+
+pr:
+buat jiu sama cai 122/210
+bahas pertanyaan
+
+wo mei ci zao shang 6 dian jiu qi chuang
+
+wo mei ci zao shang 8 dian cai qi chuang
+wo mei ci zao shang 5 dian jiu qi chuang
+
+wo 7 dian cai dao jiao shi
+
+wo mei tian xue han yu cai ban xiaoshi
+
+wo mei tian shi er dian jiu shui jiao
+wo zuo tian liang dian cai shui jiao
+
+wo mei shang ke hou zuo wan zuo ye jiu yi xiao shi
+
+wo mei tian liu dian jiu chi wan fan
+wo jintian jiu dian cai chi wan fan

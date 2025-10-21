@@ -1,0 +1,11 @@
+apalin
+
+我是一个中学老师，教学生画画儿。每次下课前，我都会把下次学生需要带的东西写在黑板上，但是每次上课时，总会有学生忘了拿铅笔，所以我有点儿生气，不是因为他们没带铅笔。是因为他们没有好的学习习惯。
+
+Wǒ shì yīgè zhōngxué lǎoshī, 
+jiào xuéshēng huà huà er. 
+Měi cì xiàkè qián, wǒ doūhuì bǎ xià cì xuéshēng xūyào dài de dōngxī xiě zài hēibǎn shàng, 
+dànshì měi cì shàngkè shí, zǒng huì yǒu xuéshēng wàngle ná qiānbǐ, 
+suǒyǐ wǒ yǒudiǎn er shēngqì,
+bùshì yīnwèi tāmen méi dài qiānbǐ. 
+Shì yīnwèi tāmen méiyǒu hǎo de xuéxí xíguàn.
