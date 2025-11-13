@@ -120,7 +120,9 @@ wo mei tian xue han yu cai ban xiaoshi
 wo mei tian shi er dian jiu shui jiao
 wo zuo tian liang dian cai shui jiao
 
-wo mei shang ke hou zuo wan zuo ye jiu yi xiao shi
+wo mei shang ke hou zuo wan zuo ye jiu yi ge xiao shi
+(zuo wan zuo ye yi ge xiao shi jiu zuo wan le)
 
 wo mei tian liu dian jiu chi wan fan
 wo jintian jiu dian cai chi wan fan
+wo jintian si dian jiu chi wan fan
